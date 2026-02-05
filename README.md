@@ -1,8 +1,7 @@
-# EcommerceMarketingCampaign
 
 ![Banner](Elements/Evergreen_Logo.png)
 
-##Table of Contents
+## Table of Contents
 - [Background and Overview](#background-and-overview)
 - [Dataset Overview](#data-structure-overview)
 - [Executive Summary](#executive-summary)
