@@ -7,3 +7,10 @@
 - [Executive Summary](#executive-summary)
 - [Key Insights](#insights-deep-dive)
 - [Insights to Action](#recommendations)
+
+## Background and Overview
+## Dataset Overview 
+## Executive Summary
+### Summary 
+## Key Insights
+## Insights to Action
