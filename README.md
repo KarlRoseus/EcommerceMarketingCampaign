@@ -56,4 +56,12 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - Despite near-identical conversion rates, financial returns vary modestly across channels.
 - This suggests that cost structure and campaign execution influence profitability beyond conversion efficiency alone.
 
+### Acquisition Cost vs ROI
+![Acquisition Cost v ROI](Elements/ROI_v_Acquisition.png)
+**Campaign-Level Efficiency Tradeoff (Graph)**
+- Average acquisition costs across campaign types range from approximately $12,481 to $12,528.
+- ROI across campaign strategies remains within a narrow band of roughly 4.99 to 5.01.
+- Campaigns with similar spend levels demonstrate small but measurable differences in ROI.
+- Increased acquisition cost does not consistently produce higher returns, reinforcing that strategic execution plays a greater role than budget size alone.
+
 ## Insights to Action
