@@ -33,5 +33,11 @@ The dataset that was used can be found here: [Kaggle Marketing Campaign Performa
 
 ## Executive Summary
 ### Summary 
+Evergreen Commerce’s marketing campaigns demonstrate relatively consistent conversion efficiency across digital channels, with Email showing a modest advantage. However, profitability varies more meaningfully than conversion rate alone would suggest. Channels with similar conversion performance do not always generate equivalent return on investment (ROI), highlighting the importance of evaluating financial outcomes alongside engagement metrics.
+
+At the campaign level, acquisition cost does not reliably predict ROI. Campaigns with comparable spend levels can produce different returns, indicating that strategic execution and channel selection influence profitability more than budget size alone. Additionally, ROI remained stable throughout the year, with only minor month to month fluctuations and no sustained upward or downward trend.
+
+Overall, the findings suggest that Evergreen Commerce should focus on optimizing channel mix and campaign execution rather than increasing marketing spend across the board. A balanced evaluation of efficiency and profitability is essential for data driven budget allocation.
+
 ## Key Insights
 ## Insights to Action
