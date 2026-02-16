@@ -70,10 +70,12 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 ### ROI Over Time
 
 ![ROI Over Time](Elements/Average_ROI_Over_Time.png)
-**Monthly ROI Trend (Graph)
+**Monthly ROI Trend (Graph)**
 - Monthly average ROI fluctuates within a tight range of approximately 4.99 to 5.02 throughout the year.
 - Variation remains minimal, with no sustained upward or downward trend.
 - Performance consistency suggests steady campaign execution rather than volatility.
 - Incremental optimization may be more impactful than major structural changes.
 
 ## Insights to Action
+- **Temp**
+  - temp 
