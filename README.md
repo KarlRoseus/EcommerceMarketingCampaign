@@ -43,9 +43,9 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 ### Conversion Efficiency by Channel
 ![Conversion Efficiency by Channel](Elements/Marketing_Conversion_Rate.png)
 **Average Conversion Rate (Graph)**
-- Conversion rates are relatively consistent across digital marketing channels.
-- Email campaigns show a slight efficiency advantage compared to other channels.
-- Differences between channels are modest, indicating no single channel dramatically outperforms the others in conversion performance.
-- Conversion rate alone does not fully capture overall marketing effectiveness.
+- Conversion rates are relatively consistent across digital marketing channels ranging from approximately 7.99% to 8.03%.
+- Email campaigns show the highest average conversion rate at approximately 8.03%, while Instagram and YouTube are slightly lower at roughly 7.99%
+- The total spread between the highest and lowest performing channels is under 0.05 percentage points, indicating minimal variation in pure conversion efficiency.
+- The total spread between the highest and lowest performing channels is under 0.05 percentage points, indicating minimal variation in pure conversion efficiency.
 
 ## Insights to Action
