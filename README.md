@@ -41,6 +41,7 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 
 ## Key Insights
 ### Conversion Efficiency by Channel
+
 ![Conversion Efficiency by Channel](Elements/Marketing_Conversion_Rate.png)
 **Average Conversion Rate (Graph)**
 - Conversion rates are relatively consistent across digital marketing channels ranging from approximately 7.99% to 8.03%.
@@ -49,6 +50,7 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - The total spread between the highest and lowest performing channels is under 0.05 percentage points, indicating minimal variation in pure conversion efficiency.
 
 ### Profitability by Channel 
+
 ![Profitability by Channel](Elements/Average_ROI.png)
 **Average ROI by Marketing Channel (Graph)**
 - Average ROI ranges from approximately 4.99 to 5.02 across channels.
@@ -57,11 +59,21 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - This suggests that cost structure and campaign execution influence profitability beyond conversion efficiency alone.
 
 ### Acquisition Cost vs ROI
+
 ![Acquisition Cost v ROI](Elements/ROI_v_Acquisition.png)
 **Campaign-Level Efficiency Tradeoff (Graph)**
 - Average acquisition costs across campaign types range from approximately $12,481 to $12,528.
 - ROI across campaign strategies remains within a narrow band of roughly 4.99 to 5.01.
 - Campaigns with similar spend levels demonstrate small but measurable differences in ROI.
 - Increased acquisition cost does not consistently produce higher returns, reinforcing that strategic execution plays a greater role than budget size alone.
+
+### ROI Over Time
+
+![ROI Over Time](Elements/Average_ROI_Over_Time.png)
+**Monthly ROI Trend (Graph)
+- Monthly average ROI fluctuates within a tight range of approximately 4.99 to 5.02 throughout the year.
+- Variation remains minimal, with no sustained upward or downward trend.
+- Performance consistency suggests steady campaign execution rather than volatility.
+- Incremental optimization may be more impactful than major structural changes.
 
 ## Insights to Action
