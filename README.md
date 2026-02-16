@@ -45,7 +45,7 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 **Average Conversion Rate (Graph)**
 - Conversion rates are relatively consistent across digital marketing channels.
 - Email campaigns show a slight efficiency advantage compared to other channels.
--Differences between channels are modest, indicating no single channel dramatically outperforms the others in conversion performance.
--Conversion rate alone does not fully capture overall marketing effectiveness.
+- Differences between channels are modest, indicating no single channel dramatically outperforms the others in conversion performance.
+- Conversion rate alone does not fully capture overall marketing effectiveness.
 
 ## Insights to Action
