@@ -77,5 +77,8 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - Incremental optimization may be more impactful than major structural changes.
 
 ## Insights to Action
-- **Temp**
-  - temp 
+- **Prioritize ROI Alongside Conversion Metrics**
+  - Conversion rates are tightly clustered between 7.99% and 8.03%, yet ROI varies from 4.99 to 5.02 across
+    channels.
+  - Budget allocation should prioritize channels delivering stronger financial return rather than relying solely
+    on conversion efficiency metrics.
