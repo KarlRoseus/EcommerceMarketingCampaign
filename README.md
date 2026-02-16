@@ -48,4 +48,12 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - The total spread between the highest and lowest performing channels is under 0.05 percentage points, indicating minimal variation in pure conversion efficiency.
 - The total spread between the highest and lowest performing channels is under 0.05 percentage points, indicating minimal variation in pure conversion efficiency.
 
+### Profitability by Channel 
+![Profitability by Channel](Elements/Average_ROI.png)
+**Average ROI by Marketing Channel (Graph)**
+- Average ROI ranges from approximately 4.99 to 5.02 across channels.
+- Average ROI ranges from approximately 4.99 to 5.02 across channels.
+- Despite near-identical conversion rates, financial returns vary modestly across channels.
+- This suggests that cost structure and campaign execution influence profitability beyond conversion efficiency alone.
+
 ## Insights to Action
