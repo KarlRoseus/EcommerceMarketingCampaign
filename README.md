@@ -77,8 +77,23 @@ Overall, the findings suggest that Evergreen Commerce should focus on optimizing
 - Incremental optimization may be more impactful than major structural changes.
 
 ## Insights to Action
-- **Prioritize ROI Alongside Conversion Metrics**
-  - Conversion rates are tightly clustered between 7.99% and 8.03%, yet ROI varies from 4.99 to 5.02 across
-    channels.
-  - Budget allocation should prioritize channels delivering stronger financial return rather than relying solely
-    on conversion efficiency metrics.
+
+- **Prioritize ROI Alongside Conversion Metrics**  
+  - Conversion rates are tightly clustered between **7.99% and 8.03%**, yet ROI varies from **4.99 to 5.02** across channels.  
+  - Budget allocation should prioritize channels delivering stronger financial return rather than relying solely on conversion efficiency metrics.
+
+- **Optimize Campaign Strategy Before Scaling Spend**  
+  - Acquisition costs range from approximately **$12,481 to $12,528**, while ROI remains within a narrow band of **4.99 to 5.01**.  
+  - Increasing spend alone is unlikely to materially improve returns; focus instead on refining targeting, creative strategy, and campaign structure.
+
+- **Continuously Evaluate Channel-Level Profitability**  
+  - Despite similar conversion performance, some channels generate marginally stronger ROI.  
+  - Implement routine performance reviews to reallocate budget toward higher-return channels while monitoring cost efficiency.
+
+- **Leverage Stability for Controlled Experimentation**  
+  - Monthly ROI fluctuates minimally between **4.99 and 5.02**, indicating consistent execution.  
+  - Use this stability to introduce controlled A/B testing and incremental optimizations rather than large structural changes.
+
+- **Adopt a Data-Driven Budget Allocation Framework**  
+  - Small ROI differences at scale can meaningfully impact overall profitability.  
+  - Develop structured decision criteria that incorporate acquisition cost, conversion efficiency, and ROI together when planning future campaigns.
