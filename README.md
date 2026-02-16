@@ -40,4 +40,12 @@ At the campaign level, acquisition cost does not reliably predict ROI. Campaigns
 Overall, the findings suggest that Evergreen Commerce should focus on optimizing channel mix and campaign execution rather than increasing marketing spend across the board. A balanced evaluation of efficiency and profitability is essential for data driven budget allocation.
 
 ## Key Insights
+### Conversion Efficiency by Channel
+![Conversion Efficiency by Channel](Elements/Marketing_Conversion_Rate.png)
+**Average Conversion Rate (Graph)**
+- Conversion rates are relatively consistent across digital marketing channels.
+- Email campaigns show a slight efficiency advantage compared to other channels.
+-Differences between channels are modest, indicating no single channel dramatically outperforms the others in conversion performance.
+-Conversion rate alone does not fully capture overall marketing effectiveness.
+
 ## Insights to Action
