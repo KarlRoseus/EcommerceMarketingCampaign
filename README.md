@@ -21,7 +21,13 @@ Insights from this analysis are grouped into the following key areas:
 - **Performance Over Time** – Whether ROI remains stable or trends upward or downward across the year.
 
 ## Dataset Overview 
+This analysis uses the Kaggle Marketing Campaign Performance Dataset, which contains 200,000 campaign records spanning a two year period. Each row represents an individual digital marketing campaign and includes performance metrics, targeting attributes, financial measures, and time based data.
 
+Key variables include campaign type, marketing channel used, target audience, customer segment, conversion rate, acquisition cost, return on investment (ROI), clicks, impressions, engagement score, and campaign date. These fields provide both efficiency based indicators such as conversion rate and engagement, as well as profitability focused measures such as acquisition cost and ROI.
+
+While the dataset reflects campaigns across multiple fictional companies, it was scoped and analyzed as if representing a single consumer e commerce business, referred to in this project as Evergreen Commerce. This approach allows for focused evaluation of channel performance, campaign level efficiency, and ROI trends over time within a consistent business context.
+
+This combination of campaign level financial and performance metrics enables a structured assessment of marketing efficiency, profitability, and stability across digital channels.
 The dataset that was used can be found here: [Kaggle Marketing Campaign Performance Dataset](https://www.kaggle.com/datasets/manishabhatt22/marketing-campaign-performance-dataset)
 
 ## Executive Summary
